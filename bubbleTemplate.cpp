@@ -1,6 +1,5 @@
-// practice.cpp : Este archivo contiene la funciÛn "main". La ejecuciÛn del programa comienza y termina ahÌ.
 //TAREA
-//bubble -> en clase, aÒadir template, que acepte lo que sea
+//bubble -> en clase, a√±adir template, que acepte lo que sea
 //leer parte 3
 
 #include <iostream>
@@ -81,13 +80,3 @@ main()
 
     return 0;
 }
-
-// Ejecutar programa: Ctrl + F5 o men˙ Depurar > Iniciar sin depurar
-// Depurar programa: F5 o men˙ Depurar > Iniciar depuraciÛn
-
-// Sugerencias para primeros pasos: 1. Use la ventana del Explorador de soluciones para agregar y administrar archivos
-//   2. Use la ventana de Team Explorer para conectar con el control de cÛdigo fuente
-//   3. Use la ventana de salida para ver la salida de compilaciÛn y otros mensajes
-//   4. Use la ventana Lista de errores para ver los errores
-//   5. Vaya a Proyecto > Agregar nuevo elemento para crear nuevos archivos de cÛdigo, o a Proyecto > Agregar elemento existente para agregar archivos de cÛdigo existentes al proyecto
-//   6. En el futuro, para volver a abrir este proyecto, vaya a Archivo > Abrir > Proyecto y seleccione el archivo .sln
